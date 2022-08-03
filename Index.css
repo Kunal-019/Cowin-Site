@@ -1,0 +1,366 @@
+
+.nav{
+    margin-top:-7px;
+}
+
+.ul{
+    background-color:gray;
+    overflow: hidden;
+    margin: 0%;
+    padding: 0%;
+
+}
+.li{
+    display: inline-block;
+ 
+
+}
+
+ .a{
+    color: whitesmoke;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-bottom: 13px;
+}
+.active{
+    background-color: black;
+    padding-left: 10px;
+    
+}
+
+
+
+.img{
+    float:right;
+    
+}
+.color{
+    background-color:#0e1229;
+}
+.ul2{
+    
+    overflow: hidden;
+    margin-left:820px;
+ 
+}
+.li2{
+    display:inline-block;
+    
+}
+.a2{
+    color: whitesmoke;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+.Register{
+    background-color:#0e1229;
+    color:whitesmoke;
+    border:3px solid whitesmoke;
+    border-radius:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+     }
+.Banner{
+    background-image: url("https://prod-cdn.preprod.co-vin.in/assets/images/newpmbanner.png");
+    height:650px;
+    width:100%;
+
+}  
+.h1{
+    color: whitesmoke;
+    margin-top: 0;
+    padding-left: 70px;
+    padding-top: 10px;
+    font-size: 40px;
+
+}
+.button3{
+    background-color:#0e1229 ;
+    border: 3px solid whitesmoke;
+    border-radius: 22px;
+    color: whitesmoke;
+    padding: 8px 8px 8px 8px;
+}
+.button2{
+    border: 3px solid whitesmoke;
+    border-radius: 22px;
+    padding: 8px 8px 8px 8px;
+
+}
+.banbutton{
+    padding-left:220px;
+   
+}
+
+.support{
+    background-color:#0e1229;
+}
+.support1{
+    padding-left: 30px;
+    color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.support2{
+    color:whitesmoke; 
+    padding-left: 30px;
+    font-size: 40px;
+}
+.table{
+    color:whitesmoke;
+    display: inline-block;
+    padding-left:100px;
+}
+.inline-block
+{
+    display: inline-block;
+}
+.doses
+{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 150px;
+
+
+}
+.count{
+    background-color: #eb996e;
+}
+.img1{
+   
+    background-color: white;
+    width: 40px;
+    height: 40px;  
+}
+.doses2{
+    padding-left:50px;
+    padding-bottom: 50px;
+    font-size: 30px;
+
+}
+.font{
+    font-size: 30px;
+}
+.doses3{
+    
+    padding-left: 100px;
+}
+.doses4{
+    padding-left:150px;
+    font-size: 30px;
+    
+}
+.search{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 50px;
+}
+.search2{
+    text-align: center;
+    font-size: 20px;
+}
+.search3{
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+.search4{
+    text-align: center;
+    padding-top: 25px;
+}
+.search5{
+        padding-left:35px;
+}
+.search6{
+    padding-left: 35px;
+}
+.b1{
+   font-size:15px;
+   padding-top:10px;
+   padding-right:70px;
+   padding-bottom: 10px;
+   border-radius:20px;
+   color: rgba(0,0,0,0.5);
+
+}
+.b2{
+    padding-left: 20px;
+}
+.b3{
+    font-size:15px;
+    padding-top:10px;
+    padding-right:40px;
+    padding-left: 20px;
+    padding-bottom:5px;
+    border-radius:20px;
+    color:whitesmoke;
+    background-color: blue;
+
+
+}
+.bottom{
+    padding-bottom: 20px;
+}
+
+.new{
+    background-color:#0e1229;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    color:whitesmoke;
+   
+}
+.border{
+    border-bottom: 2px solid whitesmoke;
+    padding-bottom: 10px;
+}
+.font1{
+    color: whitesmoke;
+    font-size: 30px;
+    padding-left: 300px;
+    padding-top:30px;
+    padding-bottom: 50px;
+}
+.raise{
+    padding-left: 200px;
+    
+}
+.issue{
+    background-color: #f7fcff;
+}
+.easier{
+    font-size: 30px;
+    color:#2A2F47;
+    text-align: center;
+}
+.table1{
+    text-align: center;
+}
+.table2{
+    margin-left: auto;
+    margin-right: auto;
+}
+.asked{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 80px;
+    color:#2A2F47; 
+}
+.b6{
+    text-align: center;
+}
+.but1{
+  padding: 5px 23px 5px 23px;
+  border-radius: 10px;
+
+  border: none;
+
+  
+}
+.but2{
+    padding: 5px 23px 5px 23px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.but3{
+    padding: 5px 23px 5px 23px;
+    border-radius: 10px;
+    border: none;
+
+    
+}
+.but4{
+    padding: 5px 23px 5px 23px;
+    border-radius: 10px;
+    border: none;
+
+}
+.but5{
+    padding: 5px 23px 5px 23px;
+    border-radius: 10px;
+    background-color: blue;
+    color: whitesmoke;
+    border: none;
+
+    
+}
+.but6{
+    padding: 5px 23px 5px 23px;
+    border-radius: 10px;
+    border: none;
+
+    
+}
+.worlds{
+    background-color:#0e1229; 
+    margin-top:-32px;
+}
+.drive{
+    color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+.clr{
+    color: whitesmoke;
+}
+.button{
+    padding: 20px 20px 20px 20px;
+    border: 1px solid white;
+    background-color:#0e1229;
+    color: whitesmoke;
+    border-radius: 30px;
+}
+.partner{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 300px;
+    padding-top: 50px;
+}
+.partners{
+    display: flex;
+    flex: 2;
+    text-align: center;
+    padding-left: 520px;
+    padding-top: 50px;
+}
+.partner1{
+    font-size: 20px;
+    font-weight: 100px;
+    padding-left: 600px;
+    padding-top: 30px;
+}
+
+
+footer td{
+    
+    padding-right: 40px;
+    padding-left: 50px;
+}
+footer td a{
+    color: whitesmoke;
+    text-decoration: none;
+
+}
+footer table{
+    margin-top: 50px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+footer table{
+    margin-left: auto;
+    margin-right: auto;
+}
